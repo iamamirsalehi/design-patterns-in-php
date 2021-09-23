@@ -1,6 +1,6 @@
 <?php
 
-namespace Src\AbstractFactory\FormBuilder\Providers\Bootstrap;
+namespace Src\AbstractFactory\FormBuilder\Providers\Bootstrap\Elements;
 
 use Src\AbstractFactory\FormBuilder\Elements\Button;
 

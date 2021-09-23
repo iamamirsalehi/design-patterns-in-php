@@ -7,6 +7,7 @@ use Src\AbstractFactory\FormBuilder\Elements\InputText;
 use Src\AbstractFactory\FormBuilder\Elements\Span;
 use Src\AbstractFactory\FormBuilder\Elements\TextArea;
 use Src\AbstractFactory\FormBuilder\FormUIFactory;
+use Src\AbstractFactory\FormBuilder\Providers\Bootstrap\Elements\BootstrapButton;
 use Src\AbstractFactory\FormBuilder\Providers\Bootstrap\Elements\BootstrapInputText;
 use Src\AbstractFactory\FormBuilder\Providers\Bootstrap\Elements\BootstrapSpan;
 use Src\AbstractFactory\FormBuilder\Providers\Bootstrap\Elements\BootstrapTextArea;
